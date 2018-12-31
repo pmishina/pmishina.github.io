@@ -1,8 +1,8 @@
 
 
 nav {
-  height: 55px;
-  background-color: lightgrey;
+  height: 40px;
+  background-color: grey;
   position: fixed;
   top:0;
   width: 100%;
@@ -45,4 +45,20 @@ nav li a {
 
 .date {
   float: right;
+}
+
+ol {
+  display: inline-block;
+  /* vertical-align: top; */
+  margin: 0;
+  padding: 0;
+  float: left;
+  width: 50%;
+}
+
+
+
+h3 {
+  /* display: inline-block; */
+  /* vertical-align: top; */
 }
